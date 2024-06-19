@@ -81,6 +81,7 @@ public class VistaAgregarUsuarios extends javax.swing.JFrame {
         //</editor-fold>
 
         /* Create and display the form */
+        // COMENTARIO
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new VistaAgregarUsuarios().setVisible(true);
